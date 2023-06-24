@@ -1,1 +1,2 @@
 # Pavan-Polisetty-Assignment-4.2-Angular-Front-end-to-manage-back-end-Mongo-DB
+This is a piece of code for front end data that was previously assigned and saved on the server. The Cricket backend Mongo DB is called by the angular front end to add, update, and delete cricket players from the database. The Mongo database we established is called Cricket, and the api we created for the prior assignment is called Crickettapi.
